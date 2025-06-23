@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router";
 import Forget from "./pages/forget/Forget";
 import RePass from "./pages/rePass/RePass";
 import ErrorPage from "./pages/error/ErrorPage";
-import MainLayout from "./Layout/MainLayout";
+import MainLayout from "./layout/MainLayout";
 import Continue from "./pages/continue/Continue"
 import Home from "./home/Home";
 import Shop from "./pages/shop/Shop";
