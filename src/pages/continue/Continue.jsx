@@ -39,7 +39,7 @@ export default function Continue() {
   return (
     <Row className="align-items-center">
       <Col md={4} sm={12}>
-        <img src="/img/Frame.png" alt="img" />
+        <img  src="/images/Frame.png"  alt="img" />
       </Col>
 
       <Col md={6} sm={12}>

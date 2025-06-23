@@ -20,7 +20,7 @@ export default function Register() {
   <Row className="align-items-center">
     <Col md={4} sm={12}>
       <img 
-      src="/img/Frame.png"
+      src="/images/Frame.png"
       alt="img"
     />
 </Col>
